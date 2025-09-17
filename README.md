@@ -28,7 +28,7 @@ We used the **AIMS grid project management tool** to define:
 - End result  
 - Success criteria  
 
-<img src="https://github.com/NotRamm/Sales-Insight-Dashboard-using-Power-BI/blob/master/Screenshots/AIMS%20grid%20sales%20insights.jpg">  
+<img src="https://github.com/Tushar100700/Sales-Insight-Dashboard-using-Power-BI-SQL/blob/main/Data1.png">  
 
 ---
 
@@ -79,13 +79,13 @@ We used the **AIMS grid project management tool** to define:
 ## 📊 Final Dashboard  
 
 ### 🔹 KPI Page  
-<img src="https://github.com/NotRamm/Sales-Insight-Dashboard-using-Power-BI/blob/master/Screenshots/Sales%20Insight%20-%20Page%20KPI.png">  
+<img src="https://github.com/Tushar100700/Sales-Insight-Dashboard-using-Power-BI-SQL/blob/main/Data1.png">  
 
 ### 🔹 Performance Insights  
-<img src="https://github.com/NotRamm/Sales-Insight-Dashboard-using-Power-BI/blob/master/Screenshots/Sales%20Insight%20-%20Page%20Performance%20Insights.png">  
+<img src="https://github.com/Tushar100700/Sales-Insight-Dashboard-using-Power-BI-SQL/blob/main/Data2.png">  
 
 ### 🔹 Profit Analysis  
-<img src="https://github.com/NotRamm/Sales-Insight-Dashboard-using-Power-BI/blob/master/Screenshots/Sales%20Insight%20-%20Page%20Profit%20Analysis.png">  
+<img src="https://github.com/Tushar100700/Sales-Insight-Dashboard-using-Power-BI-SQL/blob/main/Data3.png">  
 
 ---
 
