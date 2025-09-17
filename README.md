@@ -161,23 +161,8 @@ The project provides actionable insights into revenue, profit margins, and marke
 - **Bhubaneshwar** shows the highest profit margin (**10.48%**)  
 - **Bengaluru** records negative profitability (**-20.8%**)  
 - Top customer: **Electricalsara Stores** contributing **₹413M**  
-- Top product: **Prod318** generating **₹69M revenue**  
-
----
-
-## 📷 Dashboard Preview  
-
-### KPI Overview  
-<img src="https://github.com/NotRamm/Sales-Insight-Dashboard-using-Power-BI/blob/master/Screenshots/Sales%20Insight%20-%20Page%20KPI.png">  
-
-### Performance Insights  
-<img src="https://github.com/NotRamm/Sales-Insight-Dashboard-using-Power-BI/blob/master/Screenshots/Sales%20Insight%20-%20Page%20Performance%20Insights.png">  
-
-### Profit Analysis  
-<img src="https://github.com/NotRamm/Sales-Insight-Dashboard-using-Power-BI/blob/master/Screenshots/Sales%20Insight%20-%20Page%20Profit%20Analysis.png">  
-
----
-
+- Top product: **Prod318** generating **₹69M revenue**
+- 
 ## 🎯 Learnings  
 
 - Real-world data modeling with **SQL & Power BI**  
